@@ -1,0 +1,39 @@
+
+ body{
+    background-color: rgb(255, 213, 0);
+ }
+
+.navbar ul{
+
+    list-style-type: none;
+    background-color:rgb(72, 212, 251)
+    padding: 0px;
+   margin: 0px;
+}
+
+.navbar a{
+    color: lightblue
+   text-decoration = none; 
+    padding: 15px;
+    display: block;
+    text-align:center; 
+}
+.navbar a:hover{
+    background-color: rgb(128, 215, 255);
+
+}
+.navbar li{
+    float: right;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} 
+.image img src{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid
+}
